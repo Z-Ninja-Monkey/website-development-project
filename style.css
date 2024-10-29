@@ -6,3 +6,11 @@
 .sidebar {
     height: 100vh;
 }
+
+#mainItem1 {
+    border: solid;
+}
+
+#mainItem2 {
+    border: solid;
+}
