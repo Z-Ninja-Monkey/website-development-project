@@ -1,5 +1,9 @@
+#title {
+    padding-top: 0.5%;
+    padding-bottom: 1%;
+}
 #navigation {
-    background-color: aqua;
+    background-color: Black;
     position: fixed
 }
 
@@ -8,9 +12,32 @@
 }
 
 #mainItem1 {
+    padding-top: 10px;
+    padding-bottom: 10px;
     border: solid;
 }
 
 #mainItem2 {
     border: solid;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.navi-text h1 {
+    font-size:150% ;
+    color: lightgray
+}
+
+.jumbotron {
+    background-color: cornflowerblue;
+}
+.caption {
+    background-color: gray;
+    padding: 10px;
+    font-size: 30px;
+}
+.popular {
+    background-color: lavender;
+    padding: 2%;
+    margin-bottom: 1.5%;
 }
