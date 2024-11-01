@@ -4,7 +4,9 @@
 }
 #navigation {
     background-color: Black;
-    position: fixed
+    position: fixed;
+    padding: 0px;
+    margin-left: 0px;
 }
 
 .sidebar {
@@ -24,8 +26,8 @@
 }
 
 .navi-text h1 {
-    font-size:150% ;
-    color: lightgray
+    font-size: 150%;
+    color: lightgray;
 }
 
 .jumbotron {
@@ -36,8 +38,8 @@
     padding: 10px;
     font-size: 30px;
 }
-.popular {
+#popular {
     background-color: lavender;
-    padding: 2%;
-    margin-bottom: 1.5%;
+    margin-bottom: 2%;
+    padding: 1%;
 }
