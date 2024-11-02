@@ -13,20 +13,14 @@
     height: 100vh;
 }
 
-#mainItem1 {
+.mainItem {
     padding-top: 10px;
     padding-bottom: 10px;
     border: solid;
-}
-
-#mainItem2 {
-    border: solid;
-    padding-top: 10px;
-    padding-bottom: 10px;
 }
 
 .navi-text h1 {
-    font-size: 150%;
+    font-size: 3vmin;
     color: lightgray;
 }
 
