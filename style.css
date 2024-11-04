@@ -19,6 +19,11 @@
     border: solid;
 }
 
+.mainItem p {
+    color: black;
+    font-style: normal;
+}
+
 .navi-text h1 {
     font-size: 3vmin;
     color: lightgray;
@@ -36,4 +41,21 @@
     background-color: lavender;
     margin-bottom: 2%;
     padding: 1%;
+}
+
+img {
+    width: 100%;
+}
+
+.thankyou {
+    margin-top: 20vh;
+    font-size:xx-large
+}
+
+.bank-account {
+    margin-top: 20vh;
+}
+
+#money {
+    font-size: xx-large;
 }
