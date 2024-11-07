@@ -17,8 +17,11 @@
     padding-top: 10px;
     padding-bottom: 10px;
     border: solid;
+    margin-left: 0px;
 }
-
+.col-md-6 {
+    padding: 0px;
+}
 .mainItem p {
     color: black;
     font-style: normal;
