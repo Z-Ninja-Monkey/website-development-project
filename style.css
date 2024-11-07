@@ -19,6 +19,9 @@
     border: solid;
     margin-left: 0px;
 }
+.col-md-5 {
+    padding: 0px;
+}
 .col-md-6 {
     padding: 0px;
 }
