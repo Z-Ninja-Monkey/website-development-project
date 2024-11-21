@@ -75,3 +75,22 @@ img {
     margin: 0px;
     width: 91.6%;   background-color: gray;
 }
+table {
+    background-color: rgb(240, 240, 250);
+}
+
+tr:hover {
+    background-color: rgb(220, 220, 240);
+}
+
+.contact {
+    padding: 1%;
+    background-color: rgb(0, 170, 170);
+    margin-bottom: 7%;
+}
+
+.contact-info {
+
+    font-size: 150%;
+
+}
