@@ -101,6 +101,18 @@ tr:hover {
     margin-top: 2.5%;
     margin-left: 5%;
     margin-bottom: 4%;
-    max-width: 30%;
+    ;
 
+}
+#totallyrealguy {
+    margin-top: 17%;
+    margin-left: 5%;
+    font-size: 20px;
+}
+#aboutme {
+    width: 85%;
+    margin-left: 10%;
+}
+#about-head {
+    background-color: rgb(68, 125, 172);
 }
